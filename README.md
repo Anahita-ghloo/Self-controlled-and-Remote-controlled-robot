@@ -27,16 +27,26 @@ Softwares and Hardwares used in this project :
   * [Arduino pro mini] 
   * [HC-05 Bluetooth module] 
   * L298D motor driver 
+  * [Wheel] (2)  
+  * [Swivel Castor]
   * [9g Servo] 
   * [Motor DC 3V-6V cu reductor] (2)
-  * [Arduino IDE] 
+  * [Matrice LED 8x8] (3)
+  * [HC-SR04 Ultra sonic sensor]
+  * Chassis
+  * Bread board
+  * Jumper Wire
 
 [iconfinder.com]: https://www.iconfinder.com/
 [Arduino IDE]: https://www.arduino.cc/en/software
 [Arduino pro mini]: https://thecaferobot.com/store/arduino-pro-mini
 [HC-05 Bluetooth module]: https://thecaferobot.com/store/hc-05-bluetooth-module
+[Wheel]: https://thecaferobot.com/store/tt-motor-wheels-diameter-65mm
+[Swivel Castor]: https://thecaferobot.com/store/cw02-1-inch-fixed-caster-wheel
 [9g Servo]: https://thecaferobot.com/store/t-pro-mini-servo-sg-90-9g-servo
+[Matrice LED 8x8]: https://thecaferobot.com/store/8x8-common-cathode-red-dot-matrix
 [Motor DC 3V-6V cu reductor]: https://thecaferobot.com/store/double-axis-1-48-metal-gear-motor
+[HC-SR04 Ultra sonic sensor]: https://thecaferobot.com/store/srf04-ultrasonic-sensor-module
 
 Usage
 -----
