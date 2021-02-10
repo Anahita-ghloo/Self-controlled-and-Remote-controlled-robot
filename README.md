@@ -19,12 +19,12 @@ Softwares and Hardwares used in this project :
   
   * Android Studio v4+
   * An android device with android7+ for testing
-  * [iconfinder]iconfinder.com for downloading icons
+  * [iconfinder.com] for downloading icons
   
   * [python][python] 3.7+
   * dataset_internship
 
-[iconfinder]: https://www.iconfinder.com/
+[iconfinder.com]: https://www.iconfinder.com/
 
 Usage
 -----
