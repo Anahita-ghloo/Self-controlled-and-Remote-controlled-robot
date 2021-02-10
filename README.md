@@ -24,6 +24,7 @@ Softwares and Hardwares used in this project :
   * [Arduino IDE] 
  
   Hardware :
+  * Programmer, I used [USB Isp]
   * [Arduino pro mini] 
   * [HC-05 Bluetooth module] 
   * L298D motor driver 
@@ -37,6 +38,7 @@ Softwares and Hardwares used in this project :
   * Bread board
   * Jumper Wire
 
+[USB Isp]: https://thecaferobot.com/store/atmel-avr-programmer-usbisp
 [iconfinder.com]: https://www.iconfinder.com/
 [Arduino IDE]: https://www.arduino.cc/en/software
 [Arduino pro mini]: https://thecaferobot.com/store/arduino-pro-mini
