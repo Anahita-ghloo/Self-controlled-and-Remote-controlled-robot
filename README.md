@@ -23,9 +23,21 @@ Softwares and Hardwares used in this project :
   Arduino program :
   * [Arduino IDE] 
  
+  Hardware :
+  * [Arduino pro mini] 
+  * [HC-05 Bluetooth module] 
+  * L298D motor driver 
+  * [9g Servo] 
+  * [Motor DC 3V-6V cu reductor] (2)
+  * [Arduino IDE] 
 
 [iconfinder.com]: https://www.iconfinder.com/
 [Arduino IDE]: https://www.arduino.cc/en/software
+[Arduino pro mini]: https://thecaferobot.com/store/arduino-pro-mini
+[HC-05 Bluetooth module]: https://thecaferobot.com/store/hc-05-bluetooth-module
+[9g Servo]: https://thecaferobot.com/store/t-pro-mini-servo-sg-90-9g-servo
+[Motor DC 3V-6V cu reductor]: https://thecaferobot.com/store/double-axis-1-48-metal-gear-motor
+
 Usage
 -----
 
