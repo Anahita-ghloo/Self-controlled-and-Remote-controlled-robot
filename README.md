@@ -16,6 +16,7 @@ Requirements
 Softwares and Hardwares used in this project :
 
   For Android App :
+  
       Android Studio v4+
       An android device with android7+ for testing
       iconfinder.com for downloading icons
