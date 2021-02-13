@@ -61,7 +61,7 @@ This project consists of a robot with two mode (Remote-Controlled & Self-Control
 
 ##### Remote-Controlled Mode :
 
-The robot can be controlled by an android app. There are option for changing eyes and mouth. Arrow keys for moving the robot to four directions. A Remote/Auto control Button in the middle of arrow keys.
+The robot can be controlled by an android app with Bluetooth connection. There are options for changing eyes and mouth. Arrow keys for moving the robot to four directions. A Remote/Auto control Button in the middle of arrow keys.
 
 ##### Self-Controlled Mode :
 
