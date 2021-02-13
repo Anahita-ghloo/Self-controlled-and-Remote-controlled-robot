@@ -2,4 +2,4 @@ The app is created with Android Studio. Target SDK version is 21 to 29. It was t
 
 Tha app has two control classes. FaceControl and Movement control which contain arduino commands for controlling Dot Matrix and wheels.
 
-[My image](android app/Screenshot_20210213-180310_My Application.jpg)
+![Alt text](android app/Screenshot_20210213-180310_My Application.jpg)
