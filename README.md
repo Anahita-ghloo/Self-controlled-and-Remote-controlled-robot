@@ -2,7 +2,9 @@
 Obstacle avoiding robot which shows reactions with mouth and eyes and is controllable via android app.
 
 This project is done under an internship programme for robotic, held by [HamTech]
+
 [HamTech]: https://ham-tech.ir/
+
 Table of Contents
 -----------------
 
