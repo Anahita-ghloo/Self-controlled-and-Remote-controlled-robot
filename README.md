@@ -5,7 +5,7 @@ Table of Contents
 -----------------
 
   * [Requirements](#requirements)
-  * [Usage](#usage)
+  * [Description](#description)
   * [Contributing](#contributing)
   * [Support and Migration](#support-and-migration)
   * [License](#license)
@@ -50,11 +50,13 @@ Softwares and Hardwares used in this project :
 [Motor DC 3V-6V cu reductor]: https://thecaferobot.com/store/double-axis-1-48-metal-gear-motor
 [HC-SR04 Ultra sonic sensor]: https://thecaferobot.com/store/srf04-ultrasonic-sensor-module
 
-Usage
+Description
 -----
 
-First you should install python on your system and download the dataset.
-Then you can run the script with cmd or Anaconda Prompt.
+This project consists of a robot with two mode (Remote-Controlled & Self-Controlled).
+Remote-Controlled Mode :
+The robot can be controlled by an android app. There are option for changing eyes and mouth. Arrow keys for moving the robot to four directions. A Remote/Auto control Button in the middle of arrow keys.
+
 
 example:
 ```sh
