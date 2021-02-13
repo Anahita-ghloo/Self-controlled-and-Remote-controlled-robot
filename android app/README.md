@@ -2,6 +2,10 @@ The app is created with Android Studio. Target SDK version is 21 to 29. It was t
 
 Tha app has two control classes. FaceControl and Movement control which contain arduino commands for controlling Dot Matrix and wheels.
 
+In the MainActivity it create a Bluetooth connection with the device.
+
+Note : Before running the app, the HC-5 module should be paired with your android device.
+
 <br/>
 <br/>
 <br/>
