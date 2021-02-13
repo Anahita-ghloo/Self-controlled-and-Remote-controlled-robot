@@ -63,6 +63,13 @@ The robot can be controlled by an android app. There are option for changing eye
 
 In Auto mode, robot finds it way by using Ultra sonic sensor.
 
+
+In this project I used following links :
+
+https://medium.com/swlh/create-custom-android-app-to-control-arduino-board-using-bluetooth-ff878e998aa8
+https://create.arduino.cc/projecthub/igorF2/controlling-an-led-matrix-with-arduino-uno-0a9e94
+https://create.arduino.cc/projecthub/electropeak/using-8x8-dot-matrix-led-with-arduino-cascade-connection-5cecff
+
 example:
 ```sh
 (base) C:\>python Compare_ID_Shenasa.py --index_directory C:Anahita\dataset\index --others_directory C:Anahita\dataset\others
