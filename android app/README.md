@@ -4,4 +4,4 @@ Tha app has two control classes. FaceControl and Movement control which contain 
 
 ![alt text](https://github.com/Anahita-ghloo/hamtech_internship/blob/main/android%20app/Screenshot_20210213-180310_My%20Application.jpg = 250x250)
 
-<img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/android%20app/Screenshot_20210213-180310_My%20Application.jpg" width="1000" height="1000">
+<img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/android%20app/Screenshot_20210213-180310_My%20Application.jpg" width="300" height="300">
