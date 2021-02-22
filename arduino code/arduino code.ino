@@ -174,7 +174,6 @@ void loop() {
   // To read message received from other Bluetooth Device
   if (Serial.available() > 0){ // Check if there is data coming
     msg = Serial.readString(); // Read the message as String
-    //Serial.println("Android Command: " + msg);
 
     // If we are in automatic mode, only check for "<remote>" bluetooth message.
     if (automatic) {
@@ -423,7 +422,7 @@ void change_direction(){
     //change the direction if theres an abstacle infront
     
     brake ();
-    // Change face to piker
+    // Change face to poker
     poker_face();
     delay(1000); 
 
@@ -456,7 +455,7 @@ void change_direction(){
 
 //////////////////////////////////////////////////
 void check_right() {
-  //checks right direction to avoid abstacle
+  //check right direction to avoid abstacle
   int pos = 40;
   myPointer.write(pos);
   delay(50);
@@ -468,7 +467,7 @@ void check_right() {
 
 //////////////////////////////////////////////////
 void check_left() {
-   //checks left direction to avoid abstacle
+   //check left direction to avoid abstacle
   
    int pos = 140;
     myPointer.write(pos);
