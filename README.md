@@ -74,27 +74,6 @@ In this project I used following links :
 * https://create.arduino.cc/projecthub/igorF2/controlling-an-led-matrix-with-arduino-uno-0a9e94
 * https://create.arduino.cc/projecthub/electropeak/using-8x8-dot-matrix-led-with-arduino-cascade-connection-5cecff
 
-example:
-```sh
-(base) C:\>python Compare_ID_Shenasa.py --index_directory C:Anahita\dataset\index --others_directory C:Anahita\dataset\others
---output_directory C:\Users\Anahita
-
-```
-Note : There is a space between each directory above.
-
-The Script has the following inputs.
-
-`index_directory` is the path of index folder, where the main pictures exist. 
-
-`others_directory` is the path of others folder, where the copies of index pictures exist. 
-
-`output_directory` is the path of output, where the two folders of "same" & "different" are created. 
-
-### Error handling
-
-The script will raise fallowing error if directories are not provided.
-
-AttributeError: `NoneType` object
 
 Contributing
 -----
