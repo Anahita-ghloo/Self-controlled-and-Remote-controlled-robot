@@ -79,6 +79,14 @@ In this project I used following links :
 * https://create.arduino.cc/projecthub/electropeak/using-8x8-dot-matrix-led-with-arduino-cascade-connection-5cecff
 
 
+<br/>
+<br/>
+<br/>
+<p align="center">
+<img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/robot.jpg" width="300" height="400">
+</p>
+
+
 Contributing
 -----
 
