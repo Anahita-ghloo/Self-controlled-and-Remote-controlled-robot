@@ -83,11 +83,8 @@ In this project I used following links :
 </p>
 
 <p align="center">
-<a href="#">Video</a>of project on Youtube
-rt[Video] of project on Youtube
+Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 </p>
-
-[Video]: https://youtu.be/CAylI00THjk
 
 Contributing
 -----
