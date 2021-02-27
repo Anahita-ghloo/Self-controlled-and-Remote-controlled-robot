@@ -78,14 +78,11 @@ In this project I used following links :
 
 <br/>
 <br/>
-<br/>
 <p align="center">
 <img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/robot.jpg" width="300" height="300">
 </p>
 
-<p align="center">
 [Video] of project on Youtube
-</p>
 
 [Video]: https://youtu.be/CAylI00THjk
 
