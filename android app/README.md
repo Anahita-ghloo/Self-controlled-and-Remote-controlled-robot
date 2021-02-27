@@ -10,5 +10,5 @@ In the MainActivity it creates a Bluetooth connection with the device.
 <br/>
 <br/>
 <p align="center">
-<<img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/android%20app/Screenshot_20210213-180310_My%20Application.jpg" width="300" height="400">
+<img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/android%20app/Screenshot_20210213-180310_My%20Application.jpg" width="300" height="400">
 </p>
