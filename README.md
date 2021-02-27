@@ -3,9 +3,6 @@ Obstacle avoiding robot which shows reactions with mouth and eyes and is control
 
 This project is done under an internship programme for robotic, held by [HamTech]
 
-[Video] of project on Youtube
-
-[Video]: https://youtu.be/SDc8dShLtdc
 [HamTech]: https://ham-tech.ir/
 
 
@@ -83,9 +80,14 @@ In this project I used following links :
 <br/>
 <br/>
 <p align="center">
-<img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/robot.jpg" width="300" height="400">
+<img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/robot.jpg" width="300" height="300">
 </p>
 
+<p align="center">
+[Video] of project on Youtube
+</p>
+
+[Video]: https://youtu.be/CAylI00THjk
 
 Contributing
 -----
