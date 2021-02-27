@@ -82,7 +82,10 @@ In this project I used following links :
 <img src="https://github.com/Anahita-ghloo/hamtech_internship/blob/main/robot.jpg" width="300" height="300">
 </p>
 
-[Video] of project on Youtube
+<p align="center">
+<a href="#">Video</a>of project on Youtube
+rt[Video] of project on Youtube
+</p>
 
 [Video]: https://youtu.be/CAylI00THjk
 
